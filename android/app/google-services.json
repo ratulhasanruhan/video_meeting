@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731563866976",
+    "project_id": "video-meeting-flutter",
+    "storage_bucket": "video-meeting-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731563866976:android:1da0507c609ca1d530bc05",
+        "android_client_info": {
+          "package_name": "com.rhrsoft.video_meeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731563866976-dg8j7onsdcmd17mtakrmmjnhnrnpsri1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1kEAIH2TOLX8rP9PvSjuHsmljoLjs-pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731563866976-dg8j7onsdcmd17mtakrmmjnhnrnpsri1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
